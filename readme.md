@@ -7,3 +7,8 @@
 ### Acesso via web pelo site oficial do projeto.
 
 ### Versão atual do progresso: v0.1.0
+
+### Versão atual do portal: v0.2.0
+
+#### Adição de arquivos uteis para o sistema 
+
